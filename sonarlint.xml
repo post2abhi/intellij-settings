@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://nfv-orch-sonar0:9000/" />
+          <option name="name" value="VTS Sonar" />
+          <option name="login" value="" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

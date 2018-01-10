@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="fxs" type="PLAIN_TEXT" />
+      <mapping ext="axml" type="PLAIN_TEXT" />
+      <mapping ext="yang" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
